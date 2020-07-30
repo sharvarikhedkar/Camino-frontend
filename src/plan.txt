@@ -1,0 +1,17 @@
+Form fields that we need: 
+
+First Name 
+Last Name 
+Email id 
+Phone number
+Do you own a business - Yes/No option with a radio button
+Business name
+desired loan amount 
+Purpose of loan - drop down list
+Have you been in business for atleast 9 months? - Yes/No option with a radio button
+
+Next Button 
+Help Button - at the top right 
+
+Logo at the top left
+Validation for each field
