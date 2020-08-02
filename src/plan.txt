@@ -16,3 +16,8 @@ Help Button - at the top right
 Logo at the top left
 Validation for each field
 
+
+reactstrap
+bootstrap
+font awesome
+
