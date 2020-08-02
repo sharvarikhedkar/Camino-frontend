@@ -10,7 +10,6 @@ class Register extends Component{
                 <div class="row">
 
                     <div class="column-left"></div>
-
                     <div class="column-center">
 
                         <Form className = "form">

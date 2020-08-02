@@ -8,7 +8,7 @@ Do you own a business - Yes/No option with a radio button
 Business name
 desired loan amount 
 Purpose of loan - drop down list
-Have you been in business for atleast 9 months? - Yes/No option with a radio button
+Have you been in business for at least 9 months? - Yes/No option with a radio button
 
 Next Button 
 Help Button - at the top right 
@@ -19,5 +19,5 @@ Validation for each field
 
 reactstrap
 bootstrap
-font awesome
+font awesome - https://fontawesome.com/how-to-use/on-the-web/using-with/react
 
