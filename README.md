@@ -14,8 +14,8 @@ node@v12.18.0 or higher,
 npm@6.14.4 or higher,
 git@2.24.1 or higher
 ```
-## How to use
-From your command line, first clone Simplefolio:
+## How to run on your local computer
+From your command line:
 
 ```bash
 # Clone this repository
@@ -28,10 +28,12 @@ $ cd Camino-frontend
 $ git remote remove origin
 ```
 
-Then you can install the dependencies either using NPM:
+Then you can install the dependencies using NPM and start the development server:
+
 ```bash
 # Install dependencies
 $ npm install
+
 # Start development server
 $ npm start
 ```
