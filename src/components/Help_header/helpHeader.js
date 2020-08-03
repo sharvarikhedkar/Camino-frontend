@@ -1,5 +1,5 @@
-import React, { Component, useState } from 'react';
-import './help_header.css';
+import React from 'react';
+import './helpHeader.css';
 import { faPhone, faComments} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -18,8 +18,8 @@ class Help_header extends React.Component{
         return (
             <div>
                 <div style={{width:'100%'}} className = "header">
-                    <div class="wrap">
-                        <div class="links">
+                    <div className="wrap">
+                        <div className="links">
 
                             <button 
                             onClick = {() => this.setState({ showHelp : !this.state.showHelp})} 
@@ -38,7 +38,7 @@ class Help_header extends React.Component{
                         <table className="my_table">
 
                             <tr>
-                                <td colspan="2">Need help? Call or chat with us directly.</td>
+                                <td colSpan="2">Need help? Call or chat with us directly.</td>
                             </tr>
     
                             <tr>

@@ -1,0 +1,13 @@
+.step {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: rgb(244, 246, 246);
+    padding-top: 0.3em;
+}
+
+.border{
+    border-bottom: 1px solid #3d4d52;
+    background-color: rgb(244, 246, 246);
+    width: auto;
+    padding-bottom: 3em;
+}

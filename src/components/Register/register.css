@@ -1,10 +1,11 @@
 .register {
+    padding-top: 1em;
     background-color: rgb(244, 246, 246)
 }
 
 #labelforinput {
     display: block;
-    font: 1.5rem 'Fira Sans', sans-serif;
+    font: 1.2rem 'Fira Sans', sans-serif;
     text-align: left;
 }
 
@@ -41,4 +42,16 @@ p {
     .column-left{ float: none; width: 100%; }
     .column-right{ float: none; width: 100%; }
     .column-center{ display: block; width: 100%; }
+}
+
+.required:after {
+    content:" *";
+    color: red;
+  }
+
+.req{
+    color: red;
+    display: block;
+    font: 1.2rem 'Fira Sans', sans-serif;
+    text-align: left;
 }

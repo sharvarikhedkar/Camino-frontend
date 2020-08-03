@@ -82,7 +82,7 @@
 .links{
     display: flex;
     padding-left: 97%;
-    padding-right: 3.5%;
+    padding-right: 3%;
     justify-content: space-between;
     position: relative;
   }
@@ -94,6 +94,6 @@
     left: 0;
     border-top: 1px solid #3d4d52;
     background:#3d4d52;
-    width: 100.5%;
+    width: 100%;
     transform: translateY(-50%);
 }
